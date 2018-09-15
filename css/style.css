@@ -302,7 +302,129 @@ background-color: #ec4b0dd9
         margin-bottom: 50px;
     }
 }
-@media (max-width: 320px) {
+@media (max-width: 320px ){
+    .navbar-brand{
+        margin-left: 30px
+    }
+    .navbar-dark .navbar-nav .nav-link {
+        margin-left: -25px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        margin-left: 20px;
+    }
+    .cart{
+        margin-top:10px
+    }
+    .card-title{
+        font-size:30px
+    }
+    .card-text{
+        font-size:30px;
+    }
+    .lab .card{  
+        margin-bottom: 10px
+   }
+    .card-text2 {
+       margin-top: 20px;
+        margin-right: 0; 
+        margin-left: 0;
+        font-size: 12px; 
+    }
+    .card-title2 {
+        font-size: 13px;
+        font-weight: 500;
+        margin-top: 10px;
+    }
+    .dollar{
+        margin-bottom: 20px
+    }
+    .card-title3{
+        margin-top: 20px;
+        font-size: 15px;
+        margin-left: 30px
+    }
+    .card-text3{
+        font-size:20px;
+        margin-left: 30px
+    }
+    .imglarg{
+        margin-left: 5px
+    }
+    .card-title4{
+        margin-top: 30px;
+        font-size: 13px;
+        margin-left: 30px
+    }
+    .card-text4{
+    font-size:10px;
+    margin-top:25px;
+    margin-bottom: 25px;
+    margin-right: 20px;
+    margin-left: 30px
+    }
+    .row .three{
+        margin-right: 0px;
+        margin-bottom: 50px ;
+    }
+    .row .four{
+       margin-left: -70px; 
+    }
+    .card-title5{
+        margin-top: 30px;
+        margin-left:30px;
+        font-size: 12px;
+    }
+    .card-text5{
+        font-size:10px;
+        margin-top:25px;
+        margin-bottom: 30px;
+        margin-right: 10px;
+        margin-left:30px;
+    }
+    .card-inch{
+        margin-bottom: 25px;
+        margin-left:30px;
+        font-size: 10px;
+    }
+    .faster{
+        margin-left:30px;
+        margin-bottom: 20px
+    }
+    .small{
+        width:100px;
+        height:100px;
+        margin-left: 40px;
+        margin-top: 80px
+    }
+    .row .four{
+        margin-bottom: 100px;
+        margin-left: 0px; 
+     }
+    .card-title6{
+        margin-top: 60px;
+        font-size: 25px;
+        font-weight: bold
+    }
+    .card-text6{
+       font-size:13px;
+    }
+    .card-text62{
+        margin-top: -15px;
+        font-size: 15px;
+    }
+    .card-textlink{
+        font-size: 10px
+    }
+    .features{
+        margin-left: 30px;
+        margin-bottom: 100px;
+        margin-top: -50px;
+    }
+    .features p{
+        margin-bottom: 50px
+    }
+}
+@media (max-width: 360px) {
     .navbar-brand{
         margin-left: 30px
     }
