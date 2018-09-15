@@ -424,7 +424,7 @@ background-color: #ec4b0dd9
         margin-bottom: 50px
     }
 }
-@media (max-width: 360px) {
+@media (max-width: 600px) {
     .navbar-brand{
         margin-left: 30px
     }
