@@ -16,6 +16,9 @@
     color: #fff;
     font-size: 14px
 }
+.navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link {
+    color: #dee2e6a8;
+}
 .navbar-dark .navbar-nav .nav-link .fa-search,
 .fa-store{
     margin-top: 5px
